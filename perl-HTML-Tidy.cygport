@@ -3,7 +3,7 @@ inherit perl
 
 NAME="perl-HTML-Tidy"
 VERSION=1.56
-RELEASE=1
+RELEASE=2
 CATEGORY="Perl"
 SUMMARY="Perl (X)HTML validation module"
 DESCRIPTION="HTML::Tidy is an HTML checker in a handy dandy object. It is meant
